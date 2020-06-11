@@ -1,0 +1,1 @@
+pytest -v -s --html=report.html Pytest_Package\test_parallel.py --browser chrome
